@@ -1,4 +1,4 @@
-package com.quintrix.springbootMongo;
+package com.quintrix.springboot.mongo;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

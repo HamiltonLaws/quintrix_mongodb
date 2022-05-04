@@ -1,4 +1,4 @@
-package com.quintrix.springbootMongo;
+package com.quintrix.springboot.mongo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
