@@ -1,4 +1,4 @@
-package com.quintrix.springboot.mongo;
+package com.quintrix.springbootMongo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringbootMongoApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(SpringbootMongoApplication.class, args);
-	}
+  public static void main(String[] args) {
+    SpringApplication.run(SpringbootMongoApplication.class, args);
+  }
 
 }
