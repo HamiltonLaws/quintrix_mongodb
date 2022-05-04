@@ -1,7 +1,7 @@
-package com.quintrix.springboot.mongo.repository;
+package com.quintrix.springbootMongo.repository;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
-import com.quintrix.springboot.mongo.documents.User;
+import com.quintrix.springbootMongo.documents.User;
 
 public interface UserRepository extends MongoRepository<User, Long> {
 

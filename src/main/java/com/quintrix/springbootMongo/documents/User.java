@@ -1,4 +1,4 @@
-package com.quintrix.springboot.mongo.documents;
+package com.quintrix.springbootMongo.documents;
 
 import org.springframework.data.annotation.Id;
 
