@@ -7,4 +7,6 @@ public interface UserServices {
 
   List<User> getAllUsers();
 
+  User saveUser(User user);
+
 }
